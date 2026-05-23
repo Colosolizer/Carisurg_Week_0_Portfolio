@@ -41,7 +41,6 @@ Bradypnea- Patients breathing slower than 12 breaths per minute. This might poin
 
 Scatter Plot was utilized and it showcased Respiratory Rate vs FiO2.
 
-The following scatterplot showcases the breathing pattern of the patients in the dataset plotted against the Fraction of Inspired Oxygen.
 
 
 Patients with a high FiO2 (lots of oxygen support) and a high RR (breathing very fast) are in severe respiratory distress. This scatter plot helps visually separate stable patients from those on the brink of respiratory failure
