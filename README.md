@@ -22,3 +22,31 @@
   NaN values were dealt with, a mean imputation  method was chosen. Mean was chosen as it
   is not affected by outliers and skewed data.
 </h4>
+
+
+#### 3. Carisurg_week0_task3
+<h4> 
+  This notebook  showcases the third tutorial in the carisurg week 0 program.
+  We were tasked with creating at least two visualization plots using data 
+  from a clinical dataset and draw conclusions from said plots. A histogram
+  showcasing respiratory rate (RR) values across the dataset population
+  was plotted. The pattern seen on the histogram revealed whether or not the patients are mainly experiencing Eupnea , Tachypnea or Bradypnea.
+
+Eupnea - Common Breathing Rate
+
+Tachypnea - Crtitically Ill Patients suffering from respiratory distress, sepsis, or anxiety. Breathing faster than 20 breaths per minute.
+
+Bradypnea- Patients breathing slower than 12 breaths per minute. This might point to patients under heavy sedation, opioid use, or neurological issues.
+
+
+Scatter Plot was utilized and it showcased Respiratory Rate vs FiO2.
+
+The following scatterplot showcases the breathing pattern of the patients in the dataset plotted against the Fraction of Inspired Oxygen.
+
+
+Patients with a high FiO2 (lots of oxygen support) and a high RR (breathing very fast) are in severe respiratory distress. This scatter plot helps visually separate stable patients from those on the brink of respiratory failure
+
+
+Any patient dots that appear in the top-right section of the scatter plot (high FiO2 oxygen support and sitting above the red dashed line) are  critical, high-risk patients.
+
+</h4>
